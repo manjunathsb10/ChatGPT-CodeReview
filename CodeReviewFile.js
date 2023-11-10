@@ -3,6 +3,7 @@
 let temp;
 var _temp;
 let num=5;
+let num1=5;
 
 //undefined 
 if(temp==5)
